@@ -1,4 +1,4 @@
-Exoplanets in 3D Space
+EXOPLANETS IN 3D SPACE:
 
 An interactive 3D visualization of every confirmed exoplanet, plotted at its true position in space relative to Earth — built with Python and Plotly.
 

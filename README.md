@@ -39,8 +39,14 @@ bash
 Open the generated Exoplanets_3d.html in any browser!
 
 
+Data courtesy of NASA's Exoplanet Archive(https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars), operated by the California Institute of Technology under contract with NASA.
 
-Data courtesy of NASA's Exoplanet Archive(https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars), operated by the California Institute of Technology under contract with NASA. 
+
+<img width="1806" height="832" alt="Screenshot 2026-09-17 235847" src="https://github.com/user-attachments/assets/4e9229ab-67af-4825-bac0-b2a52af79ce3" />
+
+
+
+
 
 
 
